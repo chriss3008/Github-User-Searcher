@@ -28,7 +28,7 @@ A study case for a legacy [**assignment**](https://github.com/chamatheapp/chama-
 ##  🕵About
 
 This project is inspired by a legacy [**assignment**](https://github.com/chamatheapp/chama-frontend-assignment/) for Chama. The home page is a search page where you can search for github users to get some info about them. There is also a history page with the previous terms searched. 
-The logo for this project was made using [Hatchful](https://hatchful.shopify.com/)
+The logo for this project was made using [**Hatchful**](https://hatchful.shopify.com/).
 
 ---
 
