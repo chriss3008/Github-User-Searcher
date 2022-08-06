@@ -71,12 +71,12 @@ This is a Front-end project used as a study case to show my abilities working wi
 
 ##  🔨Functionalities
  
-- [x] You can search any user on GitHub using a form;
-- [x] That search will generate a modal with general info about that user. It also shows their public repositories, which can be clicked onm to direct you to their respective pages;
-- [x] Clicking on "History Page", the user can see the history from all the past searches, which were stored as global state using **Redux**;
-- [x] The user can delete individual entries from history clicking on **x**;
-- [x] They can also load more information from past entries clicking on **+**;
-- [x] Finally, the user can delete the whole history altogether clicking on the respective button;
+   * You can search any user on GitHub using a form;
+   * That search will generate a modal with general info about that user. It also shows their public repositories, which can be clicked onm to direct you to their respective pages;
+   * Clicking on "History Page", the user can see the history from all the past searches, which were stored as global state using **Redux**;
+   * The user can delete individual entries from history clicking on **x**;
+   * They can also load more information from past entries clicking on **+**;
+   * Finally, the user can delete the whole history altogether clicking on the respective button.
 
 
 
