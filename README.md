@@ -84,7 +84,7 @@ This is a Front-end project used as a study case to show my abilities working wi
 
 ## 💡Project Wireframe/Fluxogram
 
-![Fluxogram](/fluxogram.png)
+![Fluxogram](/flux.png)
 
 ---
 
