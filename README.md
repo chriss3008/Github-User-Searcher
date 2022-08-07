@@ -17,7 +17,7 @@ A study case for a legacy [**assignment**](https://github.com/chamatheapp/chama-
    * [Technologies](#Technologies)
    * [Objetive](#objetive)
    * [Functionalities](#functionalities)
-   * [Project Wireframe](#project-wireframe)
+   * [Project Wireframe/Fluxogram/Pictures](#project-wireframe)
    * [Run this project](#run-this-project)
    * [License](#license)
 <!--te-->
