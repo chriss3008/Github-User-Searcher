@@ -2,7 +2,7 @@
      Github User Searcher
 </h1>
 
-A study case for a legacy [**assignment**](https://github.com/chamatheapp/chama-frontend-assignment/) by Chama. 
+----
 
 
 ---
